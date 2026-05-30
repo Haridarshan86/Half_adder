@@ -53,4 +53,6 @@ Half_Adder/
 
 <img width="1553" height="818" alt="image" src="https://github.com/user-attachments/assets/39353d7b-ff07-4026-8a03-5eaf52c39e3b" />
 
+TCL Console
 
+<img width="1412" height="295" alt="image" src="https://github.com/user-attachments/assets/a3460a2f-0549-4397-8c30-ebfbad2668d5" />
